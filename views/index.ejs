@@ -1,0 +1,22 @@
+<body>
+  <div class="container">
+    <h1>📖 Virtual Guestbook</h1>
+
+    <form action="/submit" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <textarea name="message" placeholder="Your Message" required></textarea>
+      <button type="submit">Sign Guestbook</button>
+    </form>
+
+    <hr>
+
+    <h2>Previous Entries:</h2>
+    <ul>
+      <% guests.forEach((guest) => { %>
+        <li>
+          <strong><%= guest.name %>:</strong> <%= guest.message %>
+        </li>
+      <% }); %>
+    </ul>
+  </div>
+</body>
