@@ -15,9 +15,9 @@ EJS for dynamic server-side rendering
 HTML/CSS for structure and styling 
 
 💻 What I learned: <br>
-✅ Setting up a basic Node.js server
-✅ Handling form submissions using POST requests
-✅ Using EJS templates to render dynamic content
+✅ Setting up a basic Node.js server </br><br> 
+✅ Handling form submissions using POST requests </br> <br>
+✅ Using EJS templates to render dynamic content </br> <br>
 ✅ Writing cleaner, modern CSS to enhance UI </br>
 
 🎯 Goal: To strengthen my understanding of server-side rendering and web fundamentals.
