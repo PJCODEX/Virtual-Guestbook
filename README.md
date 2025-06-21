@@ -12,13 +12,13 @@ Node.js + Express for server-side logic
 
 EJS for dynamic server-side rendering
 
-HTML/CSS for structure and styling
+HTML/CSS for structure and styling <br>
 
 💻 What I learned:
 ✅ Setting up a basic Node.js server
 ✅ Handling form submissions using POST requests
 ✅ Using EJS templates to render dynamic content
-✅ Writing cleaner, modern CSS to enhance UI
+✅ Writing cleaner, modern CSS to enhance UI </br>
 
 🎯 Goal: To strengthen my understanding of server-side rendering and web fundamentals.
 
