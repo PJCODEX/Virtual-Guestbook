@@ -85,8 +85,5 @@ Writing clean and modern CSS for layout
 
 🌍 Deploy to Vercel or Render with persistent storage
 
-📸 Preview
-(Insert screenshot of your app here)
-
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
